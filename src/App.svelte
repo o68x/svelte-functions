@@ -35,7 +35,7 @@
     <code>/api</code>
     which contains a serverless
     <a href="https://nodejs.org/en/">Node.js</a>
-    function. See
+    function, which is pretty cool. 😀 See
     <a href="/api/date">
       <code>api/date</code>
       for the Date API with Node.js
